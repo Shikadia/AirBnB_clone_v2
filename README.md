@@ -1,1 +1,1 @@
-# AirBnB Clone Version 2 (MySQL)
+# AirBnB Clone Version 2 - Deploy Static
